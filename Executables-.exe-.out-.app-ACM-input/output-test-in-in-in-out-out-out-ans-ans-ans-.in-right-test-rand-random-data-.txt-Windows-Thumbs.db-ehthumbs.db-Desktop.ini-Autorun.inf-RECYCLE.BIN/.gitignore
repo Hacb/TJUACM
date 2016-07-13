@@ -1,0 +1,42 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# ACM input/output test
+in
+in?
+in??
+out
+out?
+out??
+ans
+ans?
+ans??
+*.in
+right
+test
+rand
+random
+data
+*.txt
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+Autorun.inf
+$RECYCLE.BIN/
+
+# OS X
+.DS_Store
+.Trashes
+._*
+
+# Linux
+.directory
+.Trash-*
+
+# vim and gedit tmp
+*.swp
+*~
